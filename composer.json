@@ -1,5 +1,5 @@
 {
-    "name": "Kotds1/channelSampling",
+    "name": "kotds1/channel-sampling",
     "type": "library",
     "description": "cut channel log",
     "keywords": ["log","channel","sampling"],
