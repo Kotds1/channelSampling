@@ -1,0 +1,16 @@
+{
+    "name": "noname/channelSampling",
+    "type": "library",
+    "description": "cut channel log",
+    "keywords": ["log","channel","sampling"],
+    "homepage": "https://nonamecompany.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitriy Kaidash",
+            "email": "kotds@yandex.ru",
+            "homepage": "https://nonamecompany.com",
+            "role": "Developer"
+        }
+    ],
+}
