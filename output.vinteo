@@ -1,0 +1,21 @@
+
+---ENDOFCMDREPLY---
+prt.Participant                                                  Duration  In FPS    In Rate         Out FPS   Out Rate  In dim      Out dim     Error  CurPla Limited By          Audio   Video   Vformat                  WannaS Exited WSA    MOH   CPUOVRHD  CumLost     FracLost    LPercent    RxLost      RxFracLost  Aformat                   AudioIN VideoIN Encrypt H239In FP H239In Rate     H239Out F H239Out R H239In dim  H239Out dim H239 Format SL    Watermark                                                              PVP   FEC MSRV                                              
+
+prt.player30                                                     10.4      24        5022            0         0         3840x2160   -           0      4      Local               1       1       H.264High:-(s)           0      0      0      0     0         0           0           25          15          0           g7221_48_32:-             1       1       0       0         0               0         0         -           -           -:-         0     6_-_auto_loop                                                          0     no  local                                             
+
+prt.H323/192.168.0.234-3246                                      10.0      29        1224            29        1904      1280x720    1280x720    0      1      Remote              1       1       H.264Base:H.264Base(n)   0      0      0      0     0         139         0           25          60          0           g7221_48_32:g7221_24_32   1       1       1       0         0               0         0         -           -           -:-         0     Aleksandr                                                              0     no  local                                             
+
+prt.SIP/85.175.73.114-9005e800                                   9.1       28        1985            29        1332      1280x720    1280x720    1      2      Remote              0       1       H264Base:H.264Base(n)    0      0      1      0     0         90          0           25          481         2           ulaw:opus                 1       1       0       0         0               0         0         -           -           -:-         0     Testosimo_Testobilli                                                   0     no  local                                             
+
+prt.player2                                                      3.9       24        923             0         0         1280x720    -           0      3      Local               0       1       H.264High:-(s)           0      0      0      0     0         0           0           25          7           0           g7221_48_32:-             1       1       0       0         0               0         0         -           -           -:-         0     2_-_auto_loop                                                          0     no  local                                             
+
+prt.107                                                          2.2       8         808             25        1520      640x360     1280x720    1      5      Remote              1       1       H264Base:H.264Base(n)    0      0      0      0     0         14          0           25          33          0           opus:opus                 1       1       0       0         0               0         0         -           -           -:-         0     Vahtang_Gigabitze                                                      0     no  local                                             
+
+prt.SIP/85.175.73.114-7                                          0         0         0               0         0         0           0           0      0      Local               0       0       0                        0      2      0      0     0         0           0           0           0           0           0                         0       0       0       0         0               0         0         0           0           0           0     -                                                                      0     no                                                    
+
+---LIST END---
+
+---ENDOFCMDREPLY---
+
+---ENDOFCMDREPLY---
